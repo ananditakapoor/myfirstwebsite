@@ -1,5 +1,6 @@
-body {
-    background-color: #FFE3A9;  
+  /**https://colorhunt.co/palette/fdd2bfe98580df5e5e492f10**/ 
+  body {
+    background-color: #FDD2BF;  
   }
 
   hr{
@@ -7,4 +8,8 @@ body {
       border-style: none;
       height: 2px;
   }
-  
+
+  h2 {
+    color: #DF5E5E;
+  }
+
